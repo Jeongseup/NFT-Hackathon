@@ -107,13 +107,9 @@ UX – 기부자와 아티스트가 서비스를 사용하는데, 어려움이 �
 
 - Server & Database Backend 개발 / 서장연
 
-Node.js 의 Express 프레임워크를 사용하여 서버를 구축하였습니다.
-mySQL, MariaDB 등의 RDBMS(관계형 데이터베이스 관리 시스템)로 DB를 구축하였습니다.
-
+Node.js 의 Express 프레임워크를 사용하여 서버를 구축하였습니다. mySQL, MariaDB 등의 RDBMS(관계형 데이터베이스 관리 시스템)로 DB를 구축하였습니다.
 MVC 구조를 기본으로 Views ~ Routes ~ Models 간의 Data 요청 응답 처리 프로세스를 구조화하였습니다.
-
-회원가입시 비밀번호가 암호화(bcrypt) 처리되어 DB 에 보안 저장될 수 있도록 하였습니다. 
-또한 로그인 처리 후 유지를 위해 Jsonwebtoken 기능을 활용하였습니다. 
+회원가입시 비밀번호가 암호화(bcrypt) 처리되어 DB 에 보안 저장될 수 있도록 하였습니다. 또한 로그인 처리 후 유지를 위해 Jsonwebtoken 기능을 활용하였습니다. 
 
 
 #### 프로젝트 개발시연 영상
