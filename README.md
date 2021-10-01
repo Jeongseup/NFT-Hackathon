@@ -111,7 +111,7 @@ Node.js 의 Express 프레임워크를 사용하여 서버를 구축하였습니
 MVC 구조를 기본으로 Views ~ Routes ~ Models 간의 Data 요청 응답 처리 프로세스를 구조화하였습니다.
 회원가입시 비밀번호가 암호화(bcrypt) 처리되어 DB 에 보안 저장될 수 있도록 하였습니다. 또한 로그인 처리 후 유지를 위해 Jsonwebtoken 기능을 활용하였습니다. 
 
-인터랙티브 웹 UX/UI설계 및 디자인 / EunKyung Jung
+- 인터랙티브 웹 UX/UI설계 및 디자인 / EunKyung Jung
 
 
 인터랙티브웹 page를 구현한 Gallery page는 Opensea와 같은, 비슷하지만 다른 성격의 타 플랫폼과는 다르게 저희만의 완전한 차별화를 두기위하여 Iamnotart사이트 및 1분코딩을 참고하여 Gallery page기획을 하였습니다.
